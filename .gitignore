@@ -1,0 +1,9 @@
+/previous_work/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+/scripts/
+/eda/
+/requirements-eda.txt
